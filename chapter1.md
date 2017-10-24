@@ -2,9 +2,7 @@
 
 ---
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
-
-# 
+JavaEE课程需要使用SpringBoot来实现一个作业管理系统
 
 
 
