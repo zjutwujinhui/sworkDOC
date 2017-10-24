@@ -1,3 +1,4 @@
-# My Awesome Book
+# 项目简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是一个在JavaEE课程中基于SpringBoot框架实现的——作业管理系统。
+
